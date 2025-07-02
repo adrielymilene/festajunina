@@ -41,11 +41,6 @@ export default function Cardápio() {
           <Text style={styles.buttonText}>🧁 Doces</Text>
         </TouchableOpacity>
 
-        <TouchableOpacity
-          style={styles.button}
-        >
-          <Text style={styles.buttonText}>🍛 Comidas Típicas</Text>
-        </TouchableOpacity>
       </ScrollView>
     </ImageBackground>
   );
